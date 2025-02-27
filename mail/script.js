@@ -7,3 +7,14 @@ Si può fare? Certo che si basta ragionare un po’.
 Nota:
 Non è necessario provvedere alla validazione delle email
 */
+
+// creazione lista invitati
+
+// inserimento mail persona che vuole partecipare
+
+// inserisco variabile booleana ciclo for per verificare se 
+
+//ciclo for per verificare se la persona può partecipare
+
+
+
