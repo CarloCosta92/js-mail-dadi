@@ -6,6 +6,8 @@ Bonus
 Invece di generare il numero random per l'utente, chiedilo con un prompt!
 */
 
+// prima soluzione
+
 // lista numero facce del dado
 
 let facceDado= [1,2,3,4,5,6];
@@ -37,3 +39,21 @@ if (dadoPlayer > dadoComputer) {
     console.log("Avete lanciato lo stesso numero,pari e patta");
 }
 
+
+
+//seconda soluzione
+
+// let dadoPlayer = Math.floor(Math.random() * 6) + 1; 
+// console.log(dadoPlayer);
+
+// let dadoComputer = Math.floor(Math.random() * 6) + 1; 
+// console.log(dadoComputer);
+
+
+// if (dadoPlayer > dadoComputer) {
+//     console.log("Hai vinto");
+// } else if (dadoComputer > dadoPlayer) {
+//     console.log("Hai perso, prova di nuovo");
+// } else {
+//     console.log("Avete lanciato lo stesso numero, pari e patta");
+// }
